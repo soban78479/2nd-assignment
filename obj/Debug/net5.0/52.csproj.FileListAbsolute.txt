@@ -1,0 +1,16 @@
+C:\Users\M Soban Hanif\Desktop\52\obj\Debug\net5.0\52.csprojAssemblyReference.cache
+C:\Users\M Soban Hanif\Desktop\52\obj\Debug\net5.0\52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M Soban Hanif\Desktop\52\obj\Debug\net5.0\52.AssemblyInfoInputs.cache
+C:\Users\M Soban Hanif\Desktop\52\obj\Debug\net5.0\52.AssemblyInfo.cs
+C:\Users\M Soban Hanif\Desktop\52\obj\Debug\net5.0\52.csproj.CoreCompileInputs.cache
+C:\Users\M Soban Hanif\Desktop\52\bin\Debug\net5.0\52.exe
+C:\Users\M Soban Hanif\Desktop\52\bin\Debug\net5.0\52.deps.json
+C:\Users\M Soban Hanif\Desktop\52\bin\Debug\net5.0\52.runtimeconfig.json
+C:\Users\M Soban Hanif\Desktop\52\bin\Debug\net5.0\52.runtimeconfig.dev.json
+C:\Users\M Soban Hanif\Desktop\52\bin\Debug\net5.0\52.dll
+C:\Users\M Soban Hanif\Desktop\52\bin\Debug\net5.0\ref\52.dll
+C:\Users\M Soban Hanif\Desktop\52\bin\Debug\net5.0\52.pdb
+C:\Users\M Soban Hanif\Desktop\52\obj\Debug\net5.0\52.dll
+C:\Users\M Soban Hanif\Desktop\52\obj\Debug\net5.0\ref\52.dll
+C:\Users\M Soban Hanif\Desktop\52\obj\Debug\net5.0\52.pdb
+C:\Users\M Soban Hanif\Desktop\52\obj\Debug\net5.0\52.genruntimeconfig.cache
